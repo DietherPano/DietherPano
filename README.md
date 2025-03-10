@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to My GitHub Profile
 
-<!--
-**DietherPano/DietherPano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Hello! I'm a passionate **web developer** who enjoys building dynamic and interactive websites. I specialize in **frontend and backend development**, exploring technologies like **Node.js, Socket.IO, MySQL**, and modern web frameworks to create seamless user experiences.
 
-Here are some ideas to get you started:
+## 💡 Projects I'm Working On
+- 🎲 **Minute Lotto (Project)**: A real-time lottery system using **Socket.IO**
+- 💻 **Website Development**: Crafting responsive and functional web applications
+- ⚡ **Real-Time Apps**: Implementing publisher-subscriber models for instant updates
+- 🛠 **Database Management**: Optimizing queries and managing structured data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages**: JavaScript (Node.js), SQL
+- **Frameworks & Tools**: Express.js, Socket.IO, Vite
+- **Database**: MySQL
+
+## 📫 Connect With Me
+- GitHub: [YourGitHubProfile](https://github.com/yourusername)
+- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourname)
+- Email: your.email@example.com
+
+Let's collaborate and explore new ideas! 🚀
+
