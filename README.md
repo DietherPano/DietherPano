@@ -16,7 +16,7 @@ Hello! I'm a passionate **web developer** who enjoys building dynamic and intera
 
 ## 📫 Connect With Me
 - GitHub: [YourGitHubProfile](https://github.com/DietherPano)
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourname)
+- LinkedIn: [YourLinkedIn](https://linkedin.com/in/diether-pano-220362355)
 - Email: dietherpano95@example.com
 
 Let's collaborate and explore new ideas! 🚀
