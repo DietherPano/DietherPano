@@ -15,9 +15,9 @@ Hello! I'm a passionate **web developer** who enjoys building dynamic and intera
 - **Database**: MySQL
 
 ## 📫 Connect With Me
-- GitHub: [YourGitHubProfile](https://github.com/yourusername)
+- GitHub: [YourGitHubProfile](https://github.com/DietherPano)
 - LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourname)
-- Email: your.email@example.com
+- Email: dietherpano95@example.com
 
 Let's collaborate and explore new ideas! 🚀
 
