@@ -15,8 +15,8 @@ Hello! I'm a passionate **web developer** who enjoys building dynamic and intera
 - **Database**: MySQL
 
 ## 📫 Connect With Me
-- GitHub: (https://github.com/DietherPano)
-- LinkedIn: (https://linkedin.com/in/diether-pano-220362355)
+- GitHub: https://github.com/DietherPano
+- LinkedIn: https://linkedin.com/in/diether-pano-220362355
 - Email: dietherpano95@example.com
 
 Let's collaborate and explore new ideas! 🚀
